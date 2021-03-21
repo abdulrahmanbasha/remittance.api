@@ -15601,6 +15601,12 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "remittance.api",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\BASHA\\source\\repos\\remittance.api\\remittance.api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

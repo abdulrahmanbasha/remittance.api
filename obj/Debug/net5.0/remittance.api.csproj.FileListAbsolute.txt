@@ -157,3 +157,13 @@ C:\Users\BASHA\source\repos\remittance.api\remittance.api\bin\Debug\net5.0\zh-Ha
 C:\Users\BASHA\source\repos\remittance.api\remittance.api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\BASHA\source\repos\remittance.api\remittance.api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\BASHA\source\repos\remittance.api\remittance.api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\bin\Debug\net5.0\remittance.api.Views.dll
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\bin\Debug\net5.0\remittance.api.Views.pdb
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.RazorAssemblyInfo.cache
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.RazorAssemblyInfo.cs
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.TagHelpers.input.cache
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.TagHelpers.output.cache
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.RazorCoreGenerate.cache
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.RazorTargetAssemblyInfo.cs
+C:\Users\BASHA\source\repos\remittance.api\remittance.api\obj\Debug\net5.0\remittance.api.Views.pdb

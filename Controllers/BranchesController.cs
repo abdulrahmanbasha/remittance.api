@@ -47,7 +47,7 @@ namespace remittance.api.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutBranch(int id, Branch branch)
         {
-            if (id != branch.Id)
+            if (id != branch.id)
             {
                 return BadRequest();
             }
@@ -81,7 +81,7 @@ namespace remittance.api.Controllers
             _context.Branches.Add(branch);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetBranch", new { id = branch.Id }, branch);
+            return CreatedAtAction("GetBranch", new { id = branch.id }, branch);
         }
 
         // DELETE: api/Branches/5
@@ -102,7 +102,7 @@ namespace remittance.api.Controllers
 
         private bool BranchExists(int id)
         {
-            return _context.Branches.Any(e => e.Id == id);
+            return _context.Branches.Any(e => e.id == id);
         }
     }
 }

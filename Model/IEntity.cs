@@ -7,8 +7,8 @@ namespace remittance.api.Model
 {
     public interface IEntity
     {
-        int Id { get; }
-        public string CreatedBy { get; set; }
-        public DateTime? CreatedOn { get; set; }
+        int id { get; }
+        public string createdby { get; set; }
+        public DateTime? createdon { get; set; }
     }
 }

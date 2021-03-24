@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using remittance.api.Data;
 
 namespace remittance.api.Migrations
 {
     [DbContext(typeof(DatalayerContext))]
-    partial class DatalayerContextModelSnapshot : ModelSnapshot
+    [Migration("20210324144000_changed_branch_properties")]
+    partial class changed_branch_properties
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

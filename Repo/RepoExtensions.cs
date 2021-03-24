@@ -9,7 +9,7 @@ namespace remittance.api.Repo
     {
         public static bool TryGetById<T>(this IRepository<T> repo, int id, out T r) where T : class, Model.IEntity
         {
-            r = repo.Get().FirstOrDefault(x => x.Id == id);
+            r = repo.Get().FirstOrDefault(x => x.id == id);
             return r != null;
         }
 
